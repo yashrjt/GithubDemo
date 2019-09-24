@@ -30,4 +30,4 @@ console.log("TCL: sum", sum)
 
 console.log('div tag added');
 
- 
+ console.log('footer added');

@@ -27,3 +27,5 @@ function addNumbers(x,y){
 
 var sum=addNumbers(10,20);
 console.log("TCL: sum", sum)
+
+console.log('div tag added');

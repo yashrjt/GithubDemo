@@ -32,3 +32,6 @@ console.log('div tag added');
 
  console.log('footer added');
  console.log('header');
+
+
+ console.log('Added some header code');
